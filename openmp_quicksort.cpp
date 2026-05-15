@@ -3,7 +3,7 @@
 #include <algorithm>
 #include <omp.h>
 #include <random>
-#include "format_time.cpp"
+#include "utils/format_time.cpp"
 #define DEFAULT_N 100000
 #define DEFAULT_NUM_THREADS 4
 
